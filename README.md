@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JS | Selenium | Testing**
 
 - 👨‍💻 All Projects including Projects made with help of YouTube 
-<a href="mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a>
+<p> <a href="mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a> </p>
 
 - 📝 I regularly write articles on 
-<a href="thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
+<p> <a href="thewebsurfer.pages.dev" target="blank">thewebsurfer</a> </p>
 
 - 📫 How to reach me **n.nikhilgowda2001@gmail.com / mailgowda2001@gmail.com**
 
 - 📄 Know about my experiences 
-<a href="mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
+<p> <a href="mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a> </p>
 
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
