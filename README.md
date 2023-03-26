@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All Projects including Projects made with help of YouTube [mycodenikhil.pages.dev/portfolio](mycodenikhil.pages.dev/portfolio)
 
-- 📝 I regularly write articles on [thewebsurfer.pages.dev](thewebsurfer.pages.dev)
+- 📝 I regularly write articles on <a href="thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
 
 - 📫 How to reach me **n.nikhilgowda2001@gmail.com / mailgowda2001@gmail.com**
 
-- 📄 Know about my experiences [mycodenikhil.pages.dev/cv.pdf](mycodenikhil.pages.dev/cv.pdf)
+- 📄 Know about my experiences <a href="mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
 
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
