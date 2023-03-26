@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JS | Selenium | Testing**
 
-- 👨‍💻 All Projects including Projects made with help of YouTube 
-<p> <a href="mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a> </p>
+👨‍💻 All Projects including Projects made with help of YouTube 
+<a href="mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a>
 
-- 📝 I regularly write articles on 
-<p> <a href="thewebsurfer.pages.dev" target="blank">thewebsurfer</a> </p>
+📝 I regularly write articles on 
+<a href="thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
 
 - 📫 How to reach me **n.nikhilgowda2001@gmail.com / mailgowda2001@gmail.com**
 
-- 📄 Know about my experiences 
-<p> <a href="mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a> </p>
+📄 Know about my experiences 
+<a href="mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
 
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
