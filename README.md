@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on 
 <a href="https://thewebsurfers.pages.dev" target="blank">thewebsurfer</a>
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
