@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
 
 - 📝 I regularly write articles on 
-<a href="https://thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
+<a href="https://thewebsurfers.pages.dev" target="blank">thewebsurfer</a>
 
 
 <h3 align="left">Connect with me:</h3>
