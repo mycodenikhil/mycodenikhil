@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nikhil Gowda</h1>
 <h3 align="center">A passionate Software/Testing Engineer from India</h3>
 
-<img align="left" alt "githubstar" width="400" src"https://raw.githubusercontent.com/mycodenikhil/myprofile/main/img/GitHubStarsLogo.gif?token=GHSAT0AAAAAACAGQ57GF5SQ45I43H53VHZWZBAMAQQ"></img>
+<img align="left" alt "githubstar" width="400" src"https://raw.githubusercontent.com/mycodenikhil/myprofile/main/img/GitHubStarsLogo.gif?token=GHSAT0AAAAAACAGQ57GF5SQ45I43H53VHZWZBAMAQQ"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mycodenikhil&label=Profile%20views&color=0e75b6&style=flat" alt="mycodenikhil" /> </p>
 
