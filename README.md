@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
+- 👨‍💻 All Projects including Projects made with help of YouTube 
+<a href="https://mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a>
+ 
+- 📄 Know about my experiences 
+<a href="https://mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
+
+- 📝 I regularly write articles on 
+<a href="https://thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-👨‍💻 All Projects including Projects made with help of YouTube 
-<a href="https://mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a>
- 
-📄 Know about my experiences 
-<a href="https://mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
-
-📝 I regularly write articles on 
-<a href="https://thewebsurfer.pages.dev" target="blank">thewebsurfer</a>
   
 <a href="https://twitter.com/mycodenikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mycodenikhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mycodenikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mycodenikhil" height="30" width="40" /></a>
