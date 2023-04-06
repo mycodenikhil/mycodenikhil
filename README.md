@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
 - 👨‍💻 All Projects including Projects made with help of YouTube 
-<a href="https://mycodenikhil.pages.dev/portfolio" target="blank">Portfolio</a>
+<a href="https://oia.bio/mycodenikhilportfolio" target="blank">Portfolio</a>
  
 - 📄 Know about my experiences 
 <a href="https://mycodenikhil.pages.dev/cv.pdf" target="blank">resume</a>
