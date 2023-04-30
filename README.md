@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JS | Selenium | Testing**
 
-- 📫 How to reach me **n.nikhilgowda2001@gmail.com / mailgowda2001@gmail.com**
+- 📫 How to reach me **mycodenikhil@gmail.com**
 
 - ⚡ Fun fact **I might be funny 🤣, researching 🧐& cool 😎**
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!--
 - 📝 I regularly write articles on 
-<a href="https://thewebsurfers.pages.dev" target="blank">thewebsurfer</a>
+<a href="#" target="blank">thewebsurfer</a>
 -->
 
 <br>
