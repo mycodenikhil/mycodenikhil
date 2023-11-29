@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nikhil Gowda</h1>
+<h1 align="center">Hi 👋, I'm NIKHIL GOWDA</h1>
 <h3 align="center">A passionate Software / Testing Engineer from India</h3>
 
 <img align="right" alt="githubstar" width="400" src="https://github.com/mycodenikhil/myprofile/blob/main/img/GitHubStarsLogo.gif?raw=true">
